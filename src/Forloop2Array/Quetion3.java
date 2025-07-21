@@ -24,12 +24,12 @@ public class Quetion3 {
 		for(int l = 0; l<arr.length; l++ ) {
 			if(arr[l].length()>max.length()) {
 				
-				max = arr[l];
+				
 			}
 
 			
 		}
-		System.out.print(max);
+
 		
 		
 	}
